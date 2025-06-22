@@ -1,6 +1,6 @@
 ## Hi gitcels! 👋
 
-![](https://komarev.com/ghpvc/?username=Heisenberg-tr)
+![](https://komarev.com/ghpvc/?username=Heisenberg-tr&color=blueviolet)
 [![Heisenberg-tr's Github Stats](https://github-readme-stats.vercel.app/api?username=Heisenberg-tr)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Zirinus
